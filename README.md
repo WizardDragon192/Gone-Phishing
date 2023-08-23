@@ -17,18 +17,6 @@ This project focuses on developing a novel serious game (web browser-based platf
 - WebGL
 - Firebase
 
-## **Instructions on how to install and setup the project**
-On your Terminal:
-```
-git clone https://github.com/uoa-compsci399-s1-2022/wip-gone-phishing.git
-cd wip-gone-phishing
-```
-Open the main folder on your Unity, then: 
-* File > Build Setting > WebGL > Switch Platform > Player Setting > Settings for WebGL > Publishing Setting > Set Compression Format to "Brotli"> Close the Player Setting window > Build and Run. <br/>
-**NOTE:** If Unity prompts you to choose a folder, create a new folder in main called Build and select it. 
-* After the project is running on your browser, navigate to main/Build in your file explorer, open index.html with a text editor, delete all the code in index.html and paste the code from [temp.html](https://github.com/uoa-compsci399-s1-2022/wip-gone-phishing/blob/main/temp.html) into it. 
-* Refresh the browser page. 
-
 ## **Demo Video** 
 https://drive.google.com/file/d/1_Ye1XaI0GrMmgnJkPvPVsEXrbeeQbQmH/view?usp=sharing 
 
